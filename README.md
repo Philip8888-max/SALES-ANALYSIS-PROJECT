@@ -7,7 +7,7 @@ calculation, PivotTable analysis, and dynamic data visualization.
 
 ## Dashboard
 
-![Sales Data Analysis Dashboard](SALES_DATA_ANALYSIS.png)
+<img width="1551" height="779" alt="SALES DATA ANALYSIS" src="https://github.com/user-attachments/assets/572a807a-79bb-4bba-858a-b1d22d681266" />
 
 ## Objective
 Analyze sales transactions across regions, cities, products, and sales reps 
@@ -50,7 +50,7 @@ to answer key business questions:
   ₦1.86B COGS, netting ₦465.7M profit.
 
 ## File
-📊 [PHILIP_OGUNDIRAN_-_Excel_Project.xlsx](PHILIP_OGUNDIRAN_-_Excel_Project.xlsx) 
+[PHILIP OGUNDIRAN - Excel Project.xlsx](https://github.com/user-attachments/files/31426568/PHILIP.OGUNDIRAN.-.Excel.Project.xlsx)
 — includes Data, Pivot Tables, and Dashboard sheets.
 
 ## Note
